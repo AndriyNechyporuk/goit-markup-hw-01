@@ -1,5 +1,5 @@
 {
-  "arrowParens": "always",
+"arrowParens": "always",
 "bracketSpacing": true,
 "endOfLine": "lf",
 "htmlWhitespaceSensitivity": "css",
@@ -15,6 +15,5 @@
 "trailingComma": "es5",
 "useTabs": false,
 "vueIndentScriptAndStyle": false,
-"filepath": "/Users/admin/Documents/GitHub/fe-51-on/index.html",
 "parser": "html"
 }
